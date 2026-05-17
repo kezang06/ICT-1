@@ -1,0 +1,6 @@
+a = bool(0)
+b = bool(1)
+print(type(a))
+print(type(b))
+a = bool("")
+b = bool("Hello")
